@@ -3,7 +3,11 @@ This is a general guideline for myself on all concepts for IT, life, and everyth
 
 __VERY IMPORTANT__
 
-👉🏻These are all generalizations but generalizations based on the observation of and the simplification of facts. Sure, there are exceptions but for every 100 people that think that they are an exception of the rule, 99 are wrong and that 1 that is correct is probably wrong too.
+👉🏻These are all generalizations but generalizations based on the observation of and the simplification of facts. Sure, there are exceptions but for every 100 people that think that they are an exception of the rule, 99 are wrong and that 1 that is correct is probably wrong too.👈🏻
+
+👆🏻Come back and read this OFTEN.👆🏻
+
+
 
 ## Leave Your Feelings at the Door
 This is a harsh look at various topics. If you are easily offended; You are not ready.
