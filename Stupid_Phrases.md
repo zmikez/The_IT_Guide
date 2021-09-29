@@ -1,5 +1,7 @@
 # Pet Peeves and Stupid Phrases
 
+These are key indicators to let you know who is **NOT** smart.
+
 All of these are massively stupid and should be avoided at all costs.
 
  
