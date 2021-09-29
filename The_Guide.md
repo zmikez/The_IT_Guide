@@ -3,6 +3,14 @@
 These are all generalizations but generalizations based on the observation of and the simplification of facts. Sure, there are exceptions but for every 100 people that think that they are an exception of the rule, 99 are wrong and that 1 that is correct is probably wrong too.
 
  
+ * [Nuance](#nuance)
+ * [Rent vs Own](#rent-vs-own)
+ * [Skill Sets](#skill-sets)
+ * [Teamwork](#teamwork)
+ * [Broad Think vs Deep Think](#broad-think-vs-deep-think)
+ * [Focused Spending](#focused-spending)
+ 
+ 
 
 ## Nuance
 
