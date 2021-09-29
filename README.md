@@ -1,5 +1,5 @@
 # The_IT_Guide
-This is a general guideline for myself on all concepts for IT, life, and everything. Use it for your own career and/or life if you wish but the ideas and concepts are mine. They have been learned the hard way and harshly analyzed over years. Disagree if you wish, you are allowed to be wrong.
+This is a general guideline for myself on all concepts for Information Technology (IT), life, and everything. Use it for your own career and/or life if you wish but the ideas and concepts are mine. They have been learned the hard way and harshly analyzed over years. Disagree if you wish, you are allowed to be wrong.
 
 __VERY IMPORTANT__
 
