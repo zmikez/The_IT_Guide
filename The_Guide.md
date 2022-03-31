@@ -56,7 +56,7 @@ These are all generalizations but generalizations based on the observation of, a
 
     -   If it is what makes you money.
 
-        -   (Loo at what Facebook did to publications.)
+        -   (Look at what Facebook did to publications.)
 
 -   What MUST I rent:
 
