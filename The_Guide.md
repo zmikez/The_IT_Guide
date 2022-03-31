@@ -128,25 +128,27 @@ These are all generalizations but generalizations based on the observation of, a
 
 -   The reverse is also true. Every time that you reduce skill sets, you:
 
-    -   Combine divisions with-in you workforce.
+    -   Combine divisions with-in your workforce.
 
     -   Create a more unified mindset.
 
     -   Increase opportunities for mentorship.
 
     -   Increase opportunities for professional growth.
+    -   Create opportunities to unify your workforce into a team.
 
 ## Teamwork
 
--   Teamwork can increase the productivity of the individual.
+-   Teamwork **can** increase the productivity of the individual.
 
--   There is a point at which the increase in teamwork decreases the productivity of ALL individuals in the team.
+-   There is a point at which the increase in teamwork **decreases** the productivity of ALL individuals in the team. Team size and function should be designed and regualted with purpose.
 
--   More specifically, 'militant' cries and demand for teamwork.
+-   'Militant' cries and demand for teamwork must be looked at with suspection.
+    -   Cries for team work typically hide incompatency.
 
     -   The louder the cry for teamwork, the less capable that person is.
 
--   This still needs a lot of work to clean this up and sharpen it.
+-   **This still needs a lot of work to clean this up and sharpen it.**
 
  
 
