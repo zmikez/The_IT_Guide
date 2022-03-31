@@ -66,7 +66,7 @@ These are all generalizations but generalizations based on the observation of, a
 
     -   If it requires unique or unusual knowledge. (security / spam)
 
-    -   If is changes a lot. (security / spam)
+    -   If it changes a lot. (security / spam)
 
 -   What CAN I rent:
 
@@ -108,13 +108,13 @@ These are all generalizations but generalizations based on the observation of, a
 
         -   This **WILL** cause resource issues.
 
-        -   This **WILL** reduce growth opportunities with-in the company and this in-turn will cause you to lose people.
+        -   This **WILL** reduce growth opportunities within the company and this in turn **WILL** cause you to lose people.
 
         -   This **WILL** complicate your org chart.
 
         -   This **WILL** complicate project management.
 
-    -   Create a tribal (Us v Them) mindset **WITHIN** your company.
+    -   Create a tribal (Us v Them) mindset **WITHIN** your company. **<- This shoud scare the crap out of you! If not, quit and leave; you've already lost.**
 
         -   This **WILL** create tension with-in the company.
 
