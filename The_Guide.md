@@ -143,7 +143,7 @@ These are all generalizations but generalizations based on the observation of, a
 
 -   There is a point at which the increase in teamwork **decreases** the productivity of ALL individuals in the team. Team size and function should be designed and regualted with purpose.
 
--   'Militant' cries and demand for teamwork must be looked at with suspection.
+-   'Militant' cries and demand for teamwork must be looked at with suspicion.
     -   Cries for team work typically hide incompatency.
 
     -   The louder the cry for teamwork, the less capable that person is.
