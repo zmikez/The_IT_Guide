@@ -1,6 +1,6 @@
 ﻿# Policies
 
-These are all generalizations but generalizations based on the observation of and the simplification of facts. Sure, there are exceptions but for every 100 people that think that they are an exception of the rule, 99 are wrong and that 1 that is correct is probably wrong too.
+These are all generalizations but generalizations based on the observation of, and the simplification of, facts. Sure, there are exceptions, but for every 100 people that think that they are an exception of the rule, 99 are wrong and that 1 that is correct is probably wrong too.
 
  
  * [Nuance](#nuance)
@@ -30,7 +30,7 @@ These are all generalizations but generalizations based on the observation of an
 
 ## Rent vs Own
 
--   Previously Buy vs Build. With current license models in the marketplace today, BvB has morphed to RvO. Many things that we build today, we do not own (SAP or Salesforce code). We can build all we want but we have to pay the platform owner to run it.
+-   Previously Buy vs Build. With current license models in the marketplace today, BvB has morphed to RvO. Many things that we build today, we do not own (SAP code, Salesforce code, etc.). We can build all we want but we have to pay the platform owner to run it.
 
     -   We MAY own the code but we have to pay to use (run) it.
 
@@ -56,7 +56,7 @@ These are all generalizations but generalizations based on the observation of an
 
     -   If it is what makes you money.
 
-        -   (Newspapers and Facebook)
+        -   (Loo at what Facebook did to publications.)
 
 -   What MUST I rent:
 
@@ -66,7 +66,7 @@ These are all generalizations but generalizations based on the observation of an
 
     -   If it requires unique or unusual knowledge. (security / spam)
 
-    -   It is changes a lot. (security / spam)
+    -   If is changes a lot. (security / spam)
 
 -   What CAN I rent:
 
